@@ -3,7 +3,7 @@
 
 int main()
 {
-  MazeSolver solver("input.txt");
+  MazeSolver solver("inputD");
 
   if(solver.mazeIsReady())
   {
